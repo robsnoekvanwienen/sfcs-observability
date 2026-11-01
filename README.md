@@ -13,6 +13,11 @@ Key Insight
 SFCS appears sensitive to semantic field coherence rather than truth, factual correctness, or logical agreement.
 
 
+License
+
+This project is released under the MIT License.
+
+
 Repository Structure
 
 paper/ experiments/ results/ figures/ docs/
