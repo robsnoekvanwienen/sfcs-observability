@@ -1,0 +1,8 @@
+domain,level,sfcs,variance
+AI,Machine Learning,0.522,0.060
+AI,Statistics,0.183,0.053
+AI,Mathematics,0.133,0.034
+AI,Physics,0.111,0.065
+AI,Biology,0.121,0.064
+AI,History,0.032,0.047
+AI,Random Topics,0.027,0.043

@@ -1,0 +1,10 @@
+domain,level,sfcs,variance
+Finance,Corporate Finance,0.572,0.059
+Finance,Investing,0.412,0.038
+Finance,Economics,0.247,0.118
+Finance,Macroeconomics,0.175,0.048
+Finance,Political Economy,0.196,0.060
+Finance,Politics,0.067,0.051
+Finance,International Relations,0.086,0.045
+Finance,History,0.009,0.029
+Finance,Random Topics,-0.022,0.060

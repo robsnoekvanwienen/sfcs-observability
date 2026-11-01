@@ -1,0 +1,5 @@
+domain,reference_field_score,random_field_score,total_degradation
+Finance,0.572,-0.022,0.594
+AI,0.522,0.027,0.495
+Medical,0.554,0.023,0.531
+Legal,0.522,-0.023,0.545

@@ -1,0 +1,6 @@
+domain,level,sfcs,variance
+Legal,Contract Law,0.522,0.080
+Legal,Law,0.414,0.066
+Legal,Politics,0.184,0.054
+Legal,History,0.066,0.071
+Legal,Random Topics,-0.023,0.055

@@ -1,0 +1,6 @@
+scenario,sfcs,variance
+Near Identical,1.000,0.000
+Same Conclusion Different Reasoning,0.782,0.049
+Contradictory Statements,0.744,0.092
+Synonyms,0.441,0.091
+Domain Shift,0.291,0.086
