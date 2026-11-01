@@ -1,4 +1,5 @@
 Semantic Field Coherence Score (SFCS)
+
 SFCS is an observability metric designed to measure semantic field coherence across AI outputs.
 
 The project contains:
